@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Anish!
 
 💼 Data Analyst passionate about uncovering insights that drive real impact<br>
-🎓 MBA in Predictive Analytics, Machine Learning & Cloud Computing – University Canada West<br>
+🎓 MBA, Data Science (Predictive Analytics, Machine Learning & Cloud Computing) – University Canada West<br>
 🎓 B.Tech in Computer Science & Engineering – KIIT University, India<br>
 📊 Skilled in SQL, Python, Power BI, Tableau, and Excel<br>
 🌱 #learninginpublic on [TikTok](https://www.tiktok.com/@datawithanish?_t=ZM-8y9HMn1luVi&_r=1) – sharing my journey and data tips<br>
